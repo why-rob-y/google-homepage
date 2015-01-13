@@ -1,0 +1,49 @@
+/** CSS STYLES AND I KNOW HOW TO COMMENT! *//
+
+#navbar {
+
+}
+
+#menu {
+    display:inline;
+    float:right;
+    color:gray
+}
+
+#footer {
+    position:fixed;
+ bottom:0;
+    width:100%;
+        background-color:#d3d3d3;
+}
+
+#leftfoot {
+color:grey;
+    display:inline;
+    float:left;
+}
+
+#rightfoot {
+color:grey;
+    display:inline;
+    float:right;
+}
+
+#logo {
+    height:30%;
+    width:30%;
+
+}
+
+#controls {
+ position: absolute;
+        top: 30%;
+        left: 30%;    
+}
+
+.inputbox {
+    display:block;
+    width:50%;
+}
+}
+
